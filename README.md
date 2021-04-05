@@ -33,7 +33,7 @@ This individual has an active status in both the 2017 and 2018 data sets. In the
 Dan H. is the only individual with an inconsistent retirement date between the 2017 and 2018 data sets. Further data would be needed to verify this retirement date, but the date of 5/29/2009 seems to be the more reasonable of the two dates since Dan would be retiring at 36 years old with the retirement date of 3/1/1990. 
 
 #### 7) Joe H. had a change in spouse's birthdate to N/A; this could be due to several causes, but it is a potential error.
-This change could be accounted for this a marital status change. Further data would be needed to verify this change. 
+This change could be accounted for in a marital status change. Further data would be needed to verify this change. 
 
 ### Further finds: 
 
