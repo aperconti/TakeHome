@@ -4,10 +4,10 @@ To process this data, I exported the excel files to CSV's and read them into Pyt
 I spend 1.5 hours on this assignment.
 
 ##### The tools used for this project are:
-Python 
-Pandas 
-openpyxl
-Juypter notebook
+Python, 
+Pandas, 
+openpyxl,
+Juypter notebook,
 Excel
 
 
